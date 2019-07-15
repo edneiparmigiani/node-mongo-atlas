@@ -1,0 +1,17 @@
+{
+  "name": "node_mongo",
+  "version": "1.0.0",
+  "description": "POC - NodeJS com mongodb na Atlas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ednei José Parmigiani Júnior",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.2.7",
+    "serverless-http": "^2.0.2"
+  }
+}
