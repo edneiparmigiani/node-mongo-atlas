@@ -10,7 +10,7 @@
   "author": "Ednei José Parmigiani Júnior",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongodb": "^3.2.7",
     "serverless-http": "^2.0.2"
   }
